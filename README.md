@@ -1,2 +1,2 @@
 # matrix-function-implementations
-Implementations of various Linear Algebra functions to find Moore-Penrose inverse
+Implementations of various Linear Algebra functions to find Moore-Penrose inverse of any NxM matrix
